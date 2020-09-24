@@ -28,9 +28,9 @@ How to run the script:
 3. Copy the 'WURL_Request_A_Demo.robot' file to 'Tests' folder.
 4. Open the command line window.
 5. Locate the 'Tests' folder path.
-6. Run the command 'robot -d <Results Path> <Robot file path>'.
+6. Run the command 'robot -d Results Path Robot file path'.
 7. The script execution will be started.
-8. After complete the Test, Results will be available in <Results Path>.
+8. After complete the Test, Results will be available in Results Path.
 
 Deliverables:
 =============
