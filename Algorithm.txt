@@ -11,20 +11,4 @@ Step7 - Select Request a Demo Option in Wurl Home Page.
 Step8 - Verify Request a Demo page contains all necessary fields[First Name, Last Name, Email, Subject, Message].
 Step9 - Check whether Submit button is available.
 Step10 - STOP
-
-=======
-Algorithm:
-===========
-Step1 - START
-Step2 - Initiate the WebDriver
-Step3 - Open the Google search page
-Step4 - Input the text "wurl"
-Step5 - Click On I'm Feeling lucky 
-Step6 - Verify the Wurl Home page and Page Title.
-Step7 - Select Request a Demo Option in Wurl Home Page.
-Step8 - Verify Request a Demo page contains all necessary fields[First Name, Last Name, Email, Subject, Message].
-Step9 - Check whether Submit button is available.
-Step10 - STOP
-
->>>>>>> 2e47af725ceb82ca7f08a0a6e12ec133ff93586b
  
