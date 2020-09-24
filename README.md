@@ -23,14 +23,14 @@ Generate WURL Request a Demo page report to show the browser page launching.
 How to run the script:
 ========================
 
-Create the Folders called 'Resources','Results' and 'Tests'.
-Copy the files 'Demo_Fields.robot' and 'Selecting_Feeling_Lucky.robot' to Resource Folder.
-Copy the 'WURL_Request_A_Demo.robot' file to 'Tests' folder.
-Open the command line window.
-Locate the 'Tests' folder path.
-Run the command 'robot -d <Results Path> <Robot file path>'.
-The script execution will be started.
-After complete the Test, Results will be available in <Results Path>.
+1. Create the Folders called 'Resources','Results' and 'Tests'.
+2. Copy the files 'Demo_Fields.robot' and 'Selecting_Feeling_Lucky.robot' to Resource Folder.
+3. Copy the 'WURL_Request_A_Demo.robot' file to 'Tests' folder.
+4. Open the command line window.
+5. Locate the 'Tests' folder path.
+6. Run the command 'robot -d <Results Path> <Robot file path>'.
+7. The script execution will be started.
+8. After complete the Test, Results will be available in <Results Path>.
 
 Deliverables:
 =============
