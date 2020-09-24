@@ -24,7 +24,7 @@ How to run the script:
 ========================
 
 1. Create the Folders called 'Resources','Results' and 'Tests'.
-2. Copy the files 'Demo_Fields.robot' and 'Selecting_Feeling_Lucky.robot' to Resource Folder.
+2. Copy the files 'Demo_Fields.robot' and 'Selecting_Feeling_Lucky.robot' to Resources Folder.
 3. Copy the 'WURL_Request_A_Demo.robot' file to 'Tests' folder.
 4. Open the command line window.
 5. Locate the 'Tests' folder path.
